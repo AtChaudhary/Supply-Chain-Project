@@ -1,2 +1,2 @@
 # Supply-Chain-Project
-Developed a distribution analysis of shipment status based on shipping labels and built a predictive model for the shipment status of orders. Implemented a fraud prediction model to flag potential fraudulent orders.
+Created summary statistics to examine the seasonality of departmental sales and profit mix by department. Organized items into low, medium, and high-margin categories, identifying products that generated losses on average. Developed a distribution analysis of shipment status based on shipping labels and built a predictive model for the shipment status of orders. Implemented a fraud prediction model to flag potential fraudulent orders.
